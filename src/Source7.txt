@@ -1,4 +1,2 @@
 7
-SF
-SF2
-doom
+Another demo
